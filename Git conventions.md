@@ -1,5 +1,11 @@
 # Git Comment Convention
 
+## Branch name
+1. First name is [Prefix character][Name of branch(limmit 50 character)]
+2. Name of branch will bi clone from source branch.
+3. Create pull to request: Only request from Your branch to Source Branch.
+EX: [Dev] is branch. Create new branch with Issue news 88. => [IS news 88].
+Request merge source: [IS news 88] -> [dev]
 
 ## Comment structure
 1.	First line is a subject line. It should have size about 50 characters, maximum limit is 80. Subject line is capitalized and hasn't period at the end;
