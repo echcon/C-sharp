@@ -4,7 +4,7 @@
 1. First name is [Prefix character][Name of branch(limmit 50 character)]
 2. Name of branch will bi clone from source branch.
 3. Create pull to request: Only request from Your branch to Source Branch.
-. EX: [Dev] is branch. Create new branch with Issue news 88. => [IS news 88].
+4. Ex: [Dev] is branch. Create new branch with Issue news 88. => [IS news 88].
 Request merge source: [IS news 88] -> [dev]
 
 ## Comment structure
@@ -43,6 +43,7 @@ Request merge source: [IS news 88] -> [dev]
 (!!!)(DB)[FEATURE] Rewrite stored procedure
 
 Additional information about commit changes
+- Examble a commit: commentary. [dev][news 88][html, css, config] Change html style with css inline.
 
 
 ## Source
